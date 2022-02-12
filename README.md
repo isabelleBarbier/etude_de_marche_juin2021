@@ -18,7 +18,7 @@ The strategy is rather to export the products than to produce on site.
   - `scipy`
   - `statsmodels`
   - `sklearn`
-  - `functions.py` : script for PCA représentation by OpenClassrooms
+  - `functions.py` : script for PCA's représentation by OpenClassrooms
  
 ## Data files
 Download the data from https://www.fao.org/faostat/fr/#data
